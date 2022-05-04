@@ -1,0 +1,16 @@
+Modelo de caixa
+
+Height - Altura
+Width - Largura
+Margin - 
+Pedding -
+Outline
+
+                         H
+                         E
+                altura➡ I
+                         G
+                         H
+          W    I    D    T   H
+            ⬆       ⬆      ⬆
+                 Largura

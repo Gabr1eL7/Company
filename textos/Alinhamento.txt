@@ -1,0 +1,16 @@
+Dica *Alinhamento* 
+
+text-indent
+recua o começo do paragrafo
+
+overflow-y: hidden;
+Limita o tamanho da pagina (sem scrool)
+
+Dica HTML/CSS
+(SELETORES PERSONALIZADOS)
+
+ID =#
+class =.
+Pseudo-class =:
+Pseudo-element =::
+children = >

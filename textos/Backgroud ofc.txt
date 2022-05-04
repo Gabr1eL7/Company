@@ -1,0 +1,7 @@
+BACKGROUD OFICIAL SITE 
+
+background-image: linear-gradient(-60deg, #1A1A2E, hsl(224, 48%, 16%), #0F3460, #422580f6);
+
+
+
+
