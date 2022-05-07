@@ -62,7 +62,7 @@ header > p {
 
 nav {
     text-align: left;
-    font-size:.8em;
+    font-size:.9em;
     padding: 10px;
     font-weight: bold;
     margin-top: 8px;
@@ -123,6 +123,7 @@ footer {
 }
 
 footer p {
+    font-size: .7em;
     color: white;
     text-align: center;
 }
