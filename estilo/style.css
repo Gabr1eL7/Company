@@ -42,7 +42,8 @@ header{
 }
 
 .dgd{
-    background: -webkit-linear-gradient(left, #0dce9ec2, #0e638ed8 100%);
+    background: #8880fe;
+    /*background: -webkit-linear-gradient(left, #0dce9ec2, #0e638ed8 100%);
     /*background: linear-gradient(right, #dcbc06ea, #6ed310ea 100%);*/
 
 
@@ -85,9 +86,12 @@ nav > a:hover{
 
 /*main*/
  body {
-    background: #5f2c82;  /* fallback for old browsers */
+
+    background-color: rgba(41,40,65);
+    /*background: #5f2c82;  /* fallback for old browsers */
+    /*
     background: -webkit-linear-gradient(to right, #49a09d, #5f2c82);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #49a09d, #5f2c82); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /*background: linear-gradient(to right, #49a09d, #5f2c82); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     
      
  }

@@ -15,10 +15,20 @@ header{
     color: #ffffff;
     background-color: #1c1b29; 
     padding: 20px;
-    font-size: 1.5em;
-    font-family: 'Oswald', sans-serif;
     box-shadow: 0px 3px 1px #00000014;
     
+}
+
+header > h1{
+
+    font-size: 1.5em;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+img {
+   height: 40px;
+   
 }
 main{
 
@@ -27,7 +37,10 @@ main{
     max-width: 600px;
     margin: auto;
     padding-top: 10px;
-    margin-top: 100px;
+    margin-top: 80px;
+    margin-bottom: 70px;
+    text-align: justify;
+    
 
 }
 
@@ -47,4 +60,5 @@ p {
     font-size: .9em;
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 1px;
+    
 }
