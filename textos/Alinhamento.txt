@@ -6,6 +6,9 @@ recua o começo do paragrafo
 overflow-y: hidden;
 Limita o tamanho da pagina (sem scrool)
 
+letter-spacing: 1px;
+Espaçamento entre linhas
+
 Dica HTML/CSS
 (SELETORES PERSONALIZADOS)
 
@@ -14,3 +17,6 @@ class =.
 Pseudo-class =:
 Pseudo-element =::
 children = >
+
+
+

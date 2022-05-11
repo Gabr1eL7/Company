@@ -9,6 +9,7 @@
 
 body{
     background-color: #ffffff;
+    overflow-y: hidden;
 }
 
 header{
@@ -16,20 +17,14 @@ header{
     background-color: #1c1b29; 
     padding: 20px;
     box-shadow: 0px 3px 1px #00000014;
-    
 }
 
-header > h1{
+header h1{
 
     font-size: 1.5em;
     font-family: 'Oswald', sans-serif;
-    text-align: center;
 }
 
-img {
-   height: 40px;
-   
-}
 main{
 
     background-color: #ffffff;
@@ -40,8 +35,6 @@ main{
     margin-top: 80px;
     margin-bottom: 70px;
     text-align: justify;
-    
-
 }
 
 h1{
@@ -60,5 +53,10 @@ p {
     font-size: .9em;
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 1px;
+}
+
+footer a {
+    color: black;
+    text-decoration: none;
     
 }
