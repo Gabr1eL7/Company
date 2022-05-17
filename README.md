@@ -1,5 +1,7 @@
 # Projeto-site--company-
 
+https://gabr1el7.github.io/Company/index.html
+
 **Este projeto se iniciou no dia 26 de abril de 2022
 *Devido a alguns problemas no direcionameto do antigo repositorio todas as changes que estavam foram transferidas para esse novo
 *Nota apenas para correto datamento do projeto e das suas respectivas mudanças. 
