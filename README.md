@@ -2,10 +2,12 @@
 
 https://gabr1el7.github.io/Company/index.html
 
+***As páginas TERMOS, FALE CONOSCO e SOBRE funcionam e navegam entre se
 **Este projeto se iniciou no dia 26 de abril de 2022
 *Devido a alguns problemas no direcionameto do antigo repositorio todas as changes que estavam foram transferidas para esse novo
 *Nota apenas para correto datamento do projeto e das suas respectivas mudanças. 
-/sem mais a declarar/
+
+
 
 
 Site (Company)
@@ -17,7 +19,7 @@ Boto fé caso nenhuma que isso se desenvolva e que tenha usuários frequentes, m
 
 O SITE
 
-A premissa do site(rede) é ser totalmente anonimo onde os usuários poderam compartilhar seus pensamentos e desabafos diários tudo isso em unico mural tambem compartilhado com outros usuarios, terá um perfil preve, sem imagens, sem informações pessoais... estudo a possibilidade de poder ou não de seguir outros usuários.
+A premissa do site(rede) é ser totalmente anonimo onde os usuários poderam compartilhar seus pensamentos e desabafos diários tudo isso em unico mural tambem compartilhado com outros usuarios, terá um perfil breve, sem imagens, sem informações pessoais... estudo a possibilidade de poder ou não de seguir outros usuários.
 
 
 
